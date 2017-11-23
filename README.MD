@@ -3,7 +3,7 @@
 This is a super basic forge mod, capable of keeping chunks loaded for players when they are online
 
 ## Commands
-`/chunkloader`<br>
+`/chunkloader` (`cf.terminator.simplechunkloaders.commands.ChunkLoaderCommand`)<br>
 Allows a player to select an iron block and add it as chunkloader.
 
 >Note: There is currently no configuration option.<br>
