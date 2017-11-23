@@ -1,0 +1,16 @@
+[
+{
+  "modid": "simplechunkloaders",
+  "name": "SimpleChunkloaders",
+  "description": "Server-side mod which allows chunkloading for online players.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Terminator_NL"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
